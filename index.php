@@ -6,30 +6,27 @@
   <title>Comebyte Infotech</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:we" content="Comebyte Infotech" />
-    <meta property="og:image" itemprop="image"
-        content="https://comebyteinfotech.in.net/img/meta_image_1600x900.jpeg" />
-    <meta property="og:image:alt"
-        content="Comebyte Infotech - An Information services firm helping small businesses succeed" />
-    <meta property="og:description" content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
-    <meta property="og:url" content="https://comebyteinfotech.in.net/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:width" content="1600">
-    <meta property="og:image:height" content="900">
-    <meta name="twitter:card" content="summary" />
-    <meta name="description" content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
-    <meta name="theme-color" content="#000000" />
-    <meta name="keywords"
-        content="comebyte infotech, comebyte, website development, abhigyan saha, comebyte infotech katihar, comebyte infotech bihar, comebyte infotech patna, mobile development" />
-    <meta name="author" content="Comebyte Infotech" />
-     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="assets/img/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png" />
-   
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:we" content="Comebyte Infotech" />
+  <meta property="og:image" itemprop="image" content="https://comebyteinfotech.in.net/img/meta_image_1600x900.jpeg" />
+  <meta property="og:image:alt" content="Comebyte Infotech - An Information services firm helping small businesses succeed" />
+  <meta property="og:description" content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
+  <meta property="og:url" content="https://comebyteinfotech.in.net/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1600">
+  <meta property="og:image:height" content="900">
+  <meta name="twitter:card" content="summary" />
+  <meta name="description" content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
+  <meta name="theme-color" content="#000000" />
+  <meta name="keywords" content="comebyte infotech, comebyte, website development, abhigyan saha, comebyte infotech katihar, comebyte infotech bihar, comebyte infotech patna, mobile development" />
+  <meta name="author" content="Comebyte Infotech" />
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" href="assets/img/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png" />
 
- 
+
+
 
 
   <!-- Google Fonts -->
@@ -48,18 +45,16 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet" />
   <style>
-  
     @media only screen and (max-width: 480px) {
-    
-  #brand_name {
-    font-size: 16px !important
-  }
 
-  .logo h1 {
-    margin-top: -.8rem !important
-  }
-}
+      #brand_name {
+        font-size: 16px !important
+      }
 
+      .logo h1 {
+        margin-top: -.8rem !important
+      }
+    }
   </style>
 </head>
 
@@ -85,8 +80,8 @@
         <!-- <h1 class="text-light">
           <a href="#intro" class="scrollto"><span id="brand_name" style="font-size: 24px">ComeByte Infotech</span></a>
         </h1> -->
-        <h1  class="text-light d-flex flex-column align-items-start ">
-        <a href="#intro" class="scrollto"><img src="img/logo.png" alt="logo" class="img-fluid">&nbsp;<span id="brand_name" style="font-size: 24px; align-self:center">ComeByte Infotech</span></a>
+        <h1 class="text-light d-flex flex-column align-items-start ">
+          <a href="#intro" class="scrollto"><img src="img/logo.png" alt="logo" class="img-fluid">&nbsp;<span id="brand_name" style="font-size: 24px; align-self:center">ComeByte Infotech</span></a>
         </h1>
       </div>
 
@@ -522,14 +517,14 @@
 
         <div class="row portfolio-container">
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/web1.png" class="img-fluid" alt="" />
+              <img src="img/portfolio/web1.webp" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4><a href="https://privacypolicymaker.co/" target="_blank"  >Web 1</a></h4>
+                <h4><a href="https://privacypolicymaker.co/" target="_blank">Web 1</a></h4>
                 <p>Web</p>
                 <div>
-                  <a href="img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/web1.webp" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="https://privacypolicymaker.co/" target="_blank" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -538,12 +533,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app1.jpeg" class="img-fluid" alt="" />
+              <img src="img/portfolio/app-1.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
                 <h4><a href="https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo" target="_blank">App 1</a></h4>
                 <p>App</p>
                 <div>
-                  <a href="img/portfolio/app1.jpeg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="img/portfolio/app-1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
                   <a href="https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo" target="_blank" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
@@ -648,7 +643,7 @@
             </div>
           </div> -->
 
-         
+
         </div>
       </div>
     </section>
@@ -803,7 +798,7 @@
         </div>
         <!--  -->
         <div class="row d-flex justify-content-center">
-         
+
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
@@ -876,7 +871,7 @@
         </div>
         <!--  -->
 
-       
+
       </div>
     </section>
     <!-- #team -->
@@ -1249,219 +1244,216 @@
 
   <!-- organization schema -->
   <script type="application/ld+json">
-  {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Comebyte Infotech",
-  "logo": "img/logo.png",
-  "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Bazar samiti chowk, Burma Colony, Tingachiya",
-      "addressLocality": "Katihar",
-      "addressRegion": "Bihar",
-      "postalCode": "854103",
-      "addressCountry": "IN"
-  },
-  "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+91 9142451348",
-      "email": "support@combyteinfotech.in.net",
-      "contactType": "Customer service"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "25"
-  },
-  "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Services Catalog",
-      "itemListElement": [
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Web Development",
-            "description": "We create websites that are visually appealing, user-friendly, and optimized for search engines. Our websites are designed to leave a positive impact on visitors and help convert them into clients."
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Comebyte Infotech",
+      "logo": "img/logo.png",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bazar samiti chowk, Burma Colony, Tingachiya",
+        "addressLocality": "Katihar",
+        "addressRegion": "Bihar",
+        "postalCode": "854103",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91 9142451348",
+        "email": "support@combyteinfotech.in.net",
+        "contactType": "Customer service"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "25"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services Catalog",
+        "itemListElement": [{
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web Development",
+              "description": "We create websites that are visually appealing, user-friendly, and optimized for search engines. Our websites are designed to leave a positive impact on visitors and help convert them into clients."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Mobile App Development",
+              "description": "We develop mobile apps that are intuitive, engaging, and compatible with various platforms. Our mobile apps are designed to provide a seamless user experience and help you reach a wider audience."
+            }
+          },
+
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Search Engine Optimization (SEO)",
+              "description": "We optimize your website to rank higher in search engine results pages (SERPs). Our SEO services are designed to increase your website's visibility, attract more traffic, and improve your conversion rates."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Digital Marketing",
+              "description": "We optimize your website to rank higher in search engine results pages (SERPs). Our SEO services are designed to increase your website's visibility, attract more traffic, and improve your conversion rates."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "UI/UX Designs",
+              "description": "We create user interfaces and experiences that are visually appealing, intuitive, and easy to use. Our UI/UX designs are designed to leave a positive impact on visitors and help convert them into clients."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Performance Optimization",
+              "description": "We optimize your website or application to improve its performance and speed. Our performance optimization services are designed to provide a seamless user experience and help you retain your customers."
+            }
           }
+        ]
+      },
+      "employee": [{
+          "@type": "Person",
+          "name": "Abhigyan Kr.",
+          "jobTitle": "Founder",
+          "image": "img/founder.png"
         },
         {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Mobile App Development",
-            "description": "We develop mobile apps that are intuitive, engaging, and compatible with various platforms. Our mobile apps are designed to provide a seamless user experience and help you reach a wider audience."
-          }
-        },
-        
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Search Engine Optimization (SEO)",
-            "description": "We optimize your website to rank higher in search engine results pages (SERPs). Our SEO services are designed to increase your website's visibility, attract more traffic, and improve your conversion rates."
-          }
+          "@type": "Person",
+          "name": "Er. Sumit Kr.",
+          "jobTitle": "Co-Founder",
+          "image": "img/co-founder.jpeg"
         },
         {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Digital Marketing",
-            "description": "We optimize your website to rank higher in search engine results pages (SERPs). Our SEO services are designed to increase your website's visibility, attract more traffic, and improve your conversion rates."
-          }
+          "@type": "Person",
+          "name": "Ishant Shah",
+          "jobTitle": "Cheif Executive Officer (CEO)",
+          "image": "img/ceo.jpeg"
         },
         {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "UI/UX Designs",
-            "description": "We create user interfaces and experiences that are visually appealing, intuitive, and easy to use. Our UI/UX designs are designed to leave a positive impact on visitors and help convert them into clients."
-          }
+          "@type": "Person",
+          "name": "Km. Bhavana",
+          "jobTitle": "Graphics Designer",
+          "image": "img/riya.jpeg"
         },
         {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Performance Optimization",
-            "description": "We optimize your website or application to improve its performance and speed. Our performance optimization services are designed to provide a seamless user experience and help you retain your customers."
-          }
+          "@type": "Person",
+          "name": "Er. Ansar Ahmad",
+          "jobTitle": "UI/UX Designer",
+          "image": "img/ansar.jpeg"
+        }
+      ],
+      "review": [{
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "Thing",
+            "name": "Mobile Application"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raushani Saini"
+          },
+          "reviewBody": "I came across this company and decided to give them a try. I was impressed with their professionalism and attention to detail. They developed an amazing mobile application for my business that exceeded my expectations. I would highly recommend this company to anyone looking for quality IT services."
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "Thing",
+            "name": "Website"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishawajeet Kumar"
+          },
+          "reviewBody": "I have been working with this company for over a year now and I am extremely satisfied with their services. They have developed a number of web applications for my business and have provided excellent SEO and digital marketing services. Their team is highly skilled and knowledgeable and they always deliver on time. I would definitely recommend this company to anyone looking for reliable IT services."
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "Thing",
+            "name": "Search Engine Optimization (SEO)"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amrit Sinha"
+          },
+          "reviewBody": "I was looking for a company that could help me with my digital marketing needs and I came across this company. They provided me with excellent SEO and digital marketing services that helped me increase my online visibility and generate more leads. Their team is highly professional and knowledgeable and they always go above and beyond to ensure customer satisfaction. I would highly recommend this company to anyone looking for quality IT services."
+
+
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "Thing",
+            "name": "Mobile Application"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karan Kumar"
+          },
+          "reviewBody": "They provided me with excellent mobile application development services that helped me take my business to the next level. Their team is highly skilled and knowledgeable and they always deliver on time. I would definitely recommend this company to anyone looking for reliable IT services."
         }
       ]
-    },
-  "employee": [
-  {
-    "@type": "Person",
-    "name": "Abhigyan Kr.",
-    "jobTitle": "Founder",
-    "image": "img/founder.png" 
-  },
-  {
-    "@type": "Person",
-    "name": "Er. Sumit Kr.",
-    "jobTitle": "Co-Founder",
-    "image": "img/co-founder.jpeg"
-  },
-  {
-    "@type": "Person",
-    "name": "Ishant Shah",
-    "jobTitle": "Cheif Executive Officer (CEO)",
-    "image": "img/ceo.jpeg"
-  },
-  {
-    "@type": "Person",
-    "name": "Km. Bhavana",
-    "jobTitle": "Graphics Designer",
-    "image": "img/riya.jpeg"
-  },
-  {
-    "@type": "Person",
-    "name": "Er. Ansar Ahmad",
-    "jobTitle": "UI/UX Designer",
-    "image": "img/ansar.jpeg"
-  }],
-  "review": [
-  {
-    "@type": "Review",
-    "itemReviewed": {
-      "@type": "Thing",
-      "name": "Mobile Application"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Raushani Saini"
-    },
-    "reviewBody": "I came across this company and decided to give them a try. I was impressed with their professionalism and attention to detail. They developed an amazing mobile application for my business that exceeded my expectations. I would highly recommend this company to anyone looking for quality IT services."
-  },
-  {
-    "@type": "Review",
-    "itemReviewed": {
-      "@type": "Thing",
-      "name": "Website"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5" 
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Vishawajeet Kumar"
-    },
-    "reviewBody": "I have been working with this company for over a year now and I am extremely satisfied with their services. They have developed a number of web applications for my business and have provided excellent SEO and digital marketing services. Their team is highly skilled and knowledgeable and they always deliver on time. I would definitely recommend this company to anyone looking for reliable IT services."
-  },
-  {
-    "@type": "Review",
-    "itemReviewed": {
-      "@type": "Thing",
-      "name": "Search Engine Optimization (SEO)"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5" 
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Amrit Sinha"
-    },
-    "reviewBody": "I was looking for a company that could help me with my digital marketing needs and I came across this company. They provided me with excellent SEO and digital marketing services that helped me increase my online visibility and generate more leads. Their team is highly professional and knowledgeable and they always go above and beyond to ensure customer satisfaction. I would highly recommend this company to anyone looking for quality IT services."
-          
-          
-  },
-  {
-    "@type": "Review",
-    "itemReviewed": {
-      "@type": "Thing",
-      "name": "Mobile Application"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "5"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Karan Kumar"
-    },
-    "reviewBody": "They provided me with excellent mobile application development services that helped me take my business to the next level. Their team is highly skilled and knowledgeable and they always deliver on time. I would definitely recommend this company to anyone looking for reliable IT services."
-  }]
 
-  
-}
-</script>
 
-<script type="application/ld+json">
-   {
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "Portfolio - Comebyte Infotech",
-  "url": "https://yourwebsite.com/portfolio",
-  "description": "Our portfolio showcasing our work",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Portfolio",
-    "description": "Our portfolio showcasing our work",
-    "itemListElement": [
-      {
-        "@type": "CreativeWork",
-        "name": "Loan Web App",
-        "description": "A loan app which gives users a debt amount for a fixed duration and charges interest while recovering.",
-        "url": "https://privacypolicymaker.co/",
-        "image": "img/portfolio/web1.png"
-      },
-      {
-        "@type": "CreativeWork",
-        "name": "Ytag Pro Android App",
-        "description": "A one-stop YouTube solution for generating SEO-friendly tags, keywords, and thumbnails.",
-        "url": "https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo&pli=1",
-        "image": "img/portfolio/app1.jpeg"
+    }
+  </script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Portfolio - Comebyte Infotech",
+      "url": "https://yourwebsite.com/portfolio",
+      "description": "Our portfolio showcasing our work",
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": "Portfolio",
+        "description": "Our portfolio showcasing our work",
+        "itemListElement": [{
+            "@type": "CreativeWork",
+            "name": "Loan Web App",
+            "description": "A loan app which gives users a debt amount for a fixed duration and charges interest while recovering.",
+            "url": "https://privacypolicymaker.co/",
+            "image": "img/portfolio/web1.png"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ytag Pro Android App",
+            "description": "A one-stop YouTube solution for generating SEO-friendly tags, keywords, and thumbnails.",
+            "url": "https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo&pli=1",
+            "image": "img/portfolio/app1.jpeg"
+          }
+        ]
       }
-    ]
-  }
-}
-
-</script>
+    }
+  </script>
 
 </body>
 
