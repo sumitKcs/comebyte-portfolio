@@ -9,17 +9,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta property="og:we" content="Comebyte Infotech" />
   <meta property="og:image" itemprop="image" content="https://comebyteinfotech.in.net/img/meta_image_1600x900.jpeg" />
-  <meta property="og:image:alt" content="Comebyte Infotech - An Information services firm helping small businesses succeed" />
-  <meta property="og:description" content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
+  <meta property="og:image:alt"
+    content="Comebyte Infotech - An Information services firm helping small businesses succeed" />
+  <meta property="og:description"
+    content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
   <meta property="og:url" content="https://comebyteinfotech.in.net/" />
   <meta property="og:type" content="website" />
   <meta property="og:image:type" content="image/png">
   <meta property="og:image:width" content="1600">
   <meta property="og:image:height" content="900">
   <meta name="twitter:card" content="summary" />
-  <meta name="description" content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
+  <meta name="description"
+    content="Comebyte Infotech is a leading IT services provider that specializes in website development and app development. Our team of experienced professionals is dedicated to helping your business thrive in the digital realm. We offer a wide range of services, including web design, mobile app development, cloud computing, and software consulting. Our goal is to help you boost your online presence and reach your target audience. Contact us today to learn more about how we can help your business grow." />
   <meta name="theme-color" content="#000000" />
-  <meta name="keywords" content="comebyte infotech, comebyte, website development, abhigyan saha, comebyte infotech katihar, comebyte infotech bihar, comebyte infotech patna, mobile development" />
+  <meta name="keywords"
+    content="comebyte infotech, comebyte, website development, abhigyan saha, comebyte infotech katihar, comebyte infotech bihar, comebyte infotech patna, mobile development" />
   <meta name="author" content="Comebyte Infotech" />
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="assets/img/favicon.ico" />
@@ -30,7 +34,9 @@
 
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700"
+    rel="stylesheet" />
 
   <!-- Bootstrap CSS File -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -66,10 +72,13 @@
     <div id="topbar">
       <div class="container">
         <div class="social-links">
-          <a href="https://www.facebook.com/profile.php?id=61555234924073" target="_blank" referrerpolicy="no-referrer" class="facebook"><i class="fa fa-facebook"></i></a>
-          <a href="https://www.linkedin.com/company/101441225" target="_blank" referrerpolicy="no-referrer" class="linkedin"><i class="fa fa-linkedin"></i></a>
-          <a href="https://www.instagram.com/comebyteinfotech" target="_blank" referrerpolicy="no-referrer" class="instagram"><i class="fa fa-instagram"></i></a>
-          <a href="#" target=" _blank" referrerpolicy="no-referrer" class="twitter"><i class="fa fa-twitter"></i></a>
+          <a href="https://www.facebook.com/profile.php?id=61555234924073" target="_blank" referrerpolicy="no-referrer"
+            class="facebook"><i class="fa fa-facebook"></i></a>
+          <a href="https://www.linkedin.com/company/101441225" target="_blank" referrerpolicy="no-referrer"
+            class="linkedin"><i class="fa fa-linkedin"></i></a>
+          <a href="https://www.instagram.com/comebyteinfotech" target="_blank" referrerpolicy="no-referrer"
+            class="instagram"><i class="fa fa-instagram"></i></a>
+          <!-- <a href="#" target=" _blank" referrerpolicy="no-referrer" class="twitter"><i class="fa fa-twitter"></i></a> -->
         </div>
       </div>
     </div>
@@ -81,7 +90,8 @@
           <a href="#intro" class="scrollto"><span id="brand_name" style="font-size: 24px">ComeByte Infotech</span></a>
         </h1> -->
         <h1 class="text-light d-flex flex-column align-items-start ">
-          <a href="#intro" class="scrollto"><img src="img/logo.png" alt="logo" class="img-fluid">&nbsp;<span id="brand_name" style="font-size: 24px; align-self:center">ComeByte Infotech</span></a>
+          <a href="#intro" class="scrollto"><img src="img/logo.png" alt="logo" class="img-fluid">&nbsp;<span
+              id="brand_name" style="font-size: 24px; align-self:center">ComeByte Infotech</span></a>
         </h1>
       </div>
 
@@ -90,7 +100,7 @@
           <li class="active"><a href="#intro">Home</a></li>
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <!-- <li><a href="#portfolio">Portfolio</a></li> -->
           <li><a href="#team">Team</a></li>
           <!-- <li class="drop-down">
             <a href="">Drop Down</a>
@@ -126,16 +136,16 @@
     <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2>
+          <h2 class="wow fadeInDown">
             Helping small businesses<br />
             <span>succeed</span>
           </h2>
           <div>
-            <a href="#send" class="btn-get-started scrollto">Get Started</a>
+            <a href="#about" class="btn-get-started scrollto wow fadeInLeft">Get Started</a>
           </div>
         </div>
 
-        <div class="col-md-6 intro-img order-md-last order-first">
+        <div class="col-md-6 intro-img order-md-last order-first wow fadeInUp">
           <img src="img/intro-img.svg" alt="" class="img-fluid" />
         </div>
       </div>
@@ -229,7 +239,7 @@
         </header>
 
         <div class="row">
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #fceef3">
                 <i class="ion-laptop" style="color: #ff689b"></i>
@@ -239,11 +249,17 @@
                 We create websites that are visually appealing, user-friendly,
                 and optimized for search engines. Our websites are designed to
                 leave a positive impact on visitors and help convert them into
-                clients.
+                clients. Our expertise: Custom Website Development, E-commerce Website Development, CMS Development,
+                Banking Solutions, Educational Platforms, Healthcare Systems, Real Estate Portals, Social Networking
+                Sites,
+                News Portals, Blogging Platforms, Online Marketplaces, Corporate Websites, Non-Profit Organization
+                Websites,
+                Government Websites, Entertainment Websites, Personal Websites, Portfolio Websites, and more.
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #fff0da">
                 <i class="ion-ipad" style="color: #e98e06"></i>
@@ -253,12 +269,17 @@
                 We develop mobile apps that are intuitive, engaging, and
                 compatible with various platforms. Our mobile apps are
                 designed to provide a seamless user experience and help you
-                reach a wider audience.
+                reach a wider audience. Our expertise: iOS App Development,
+                Android App Development, Hybrid App Development, PWAs,
+                E-commerce Apps, Social Networking Apps, On-Demand Service Apps,
+                Healthcare Apps, Educational Apps, Financial Apps, Travel & Tourism Apps,
+                Real Estate Apps, Entertainment Apps, Utility Apps, and more.
               </p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.1s"
+            data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #e6fdfc">
                 <i class="ion-ios-world-outline" style="color: #3fcdc7"></i>
@@ -268,11 +289,15 @@
                 We optimize your website to rank higher in search engine
                 results pages (SERPs). Our SEO services are designed to
                 increase your website's visibility, attract more traffic, and
-                improve your conversion rates.
+                improve your conversion rates. Our expertise: On-Page SEO, Off-Page SEO, Technical SEO, Local SEO,
+                E-commerce SEO, Enterprise SEO, Content SEO, Mobile SEO, Voice Search SEO, Video SEO, International SEO,
+                SEO Audits, Competitor Analysis, SEO Strategy Development, Link Building, Keyword Research, Analytics &
+                Reporting
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.1s"
+            data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #eafde7">
                 <i class="ion-ios-speedometer-outline" style="color: #41cf2e"></i>
@@ -282,12 +307,18 @@
                 We optimize your website or application to improve its
                 performance and speed. Our performance optimization services
                 are designed to provide a seamless user experience and help
-                you retain your customers.
+                you retain your customers. Our expertise: Website Performance Optimization, Mobile App Performance
+                Optimization, Database Optimization, Code Optimization, Server Performance Optimization, Network
+                Performance Optimization, Application Load Testing, Performance Monitoring & Reporting, Cloud
+                Performance Optimization, CDN Integration, Caching Strategies, Image Optimization, Frontend Performance
+                Optimization, Backend Performance Optimization, API Performance Optimization, and Security Performance
+                Optimization.
               </p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.2s"
+            data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #e1eeff">
                 <i class="ion-arrow-graph-up-right" style="color: #2282ff"></i>
@@ -297,11 +328,15 @@
                 We offer digital marketing services that help you reach your
                 target audience and promote your brand. Our digital marketing
                 services include social media marketing, email marketing, and
-                content marketing.
+                content marketing. Our expertise: Social Media Marketing, Email Marketing, Content Marketing, Search
+                Engine Marketing, Influencer Marketing, Pay-Per-Click Advertising, Affiliate Marketing, Video Marketing,
+                Online Reputation Management, Conversion Rate Optimization, Analytics & Reporting, Marketing Automation,
+                E-commerce Marketing, Mobile Marketing, Local SEO, and Voice Search Optimization.
               </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.2s"
+            data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #ecebff">
                 <i class="ion-leaf" style="color: #8660fe"></i>
@@ -311,14 +346,285 @@
                 We create user interfaces and experiences that are visually
                 appealing, intuitive, and easy to use. Our UI/UX designs are
                 designed to leave a positive impact on visitors and help
-                convert them into clients.
+                convert them into clients. Our expertise: User Research, User Experience Design, User Interface Design,
+                Prototyping & Testing, E-commerce Platforms, Mobile Applications, Web Applications, Enterprise Software,
+                SaaS Products, Healthcare Systems, Educational Platforms, Financial Services, Real Estate Solutions,
+                Social Networking Sites, Entertainment & Media, Travel & Tourism, Retail & E-commerce, Automotive
+                Systems,
+                Government & Public Sector, Non-Profit Organizations, and more.
               </p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.2s"
+            data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #ecebff">
+                <i class="ion-bug" style="color: #8660fe"></i>
+              </div>
+              <h4 class="title"><a href="#services-card">Testing Solutions</a></h4>
+              <p class="description">
+                Delivering quality software is at the core of our services. Our comprehensive testing solutions ensure
+                that your applications run flawlessly, minimizing risks and maximizing efficiency. Our expertise:
+                Functional & Automated Testing, Performance Testing, Security Testing, Mobile Testing, API Testing,
+                Usability Testing, Compatibility Testing, Regression Testing, Load Testing, Stress Testing, User
+                Acceptance Testing (UAT),
+                Integration Testing, System Testing, End-to-End Testing, Compliance Testing, Localization Testing, and
+                Accessibility Testing.
+              </p>
+            </div>
+          </div>
+
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.2s"
+            data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #ecebff">
+                <i class="ion-cloud" style="color: #8660fe"></i>
+              </div>
+              <h4 class="title"><a href="#services-card">Cloud Services</a></h4>
+              <p class="description">
+                Unlock the power of the cloud to enhance scalability, security, and performance. Our cloud solutions
+                help you deploy, manage, and optimize applications with ease. Our expertise: Cloud Infrastructure &
+                Migration, DevOps & CI/CD Automation, Cloud Security, Cloud Monitoring & Management, Cloud Cost
+                Optimization, Disaster Recovery & Backup Solutions, Cloud-Native Application Development, Multi-Cloud
+                Strategy, Hybrid Cloud Solutions, Cloud Consulting & Strategy, Cloud Data Analytics, AI & Machine
+                Learning Services, Internet of Things (IoT) Solutions, Cloud Storage Solutions, Serverless Computing,
+                Cloud Compliance & Governance, Cloud Integration Services, and Cloud Support & Maintenance.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp d-flex align-items-stretch" data-wow-delay="0.2s"
+            data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #ecebff">
+                <i class="ion-aperture" style="color: #8660fe"></i>
+              </div>
+              <h4 class="title"><a href="#services-card">AI/ML Development</a></h4>
+              <p class="description">
+                We offer comprehensive AI/ML development services, including:
+                Predictive Analytics: Forecasting future outcomes.
+                NLP: Chatbots and sentiment analysis.
+                Computer Vision: Image and video analysis.
+                Recommendation Systems: Personalized recommendations.
+                Fraud Detection: Real-time fraud prevention.
+                RPA: Automating repetitive tasks.
+                Speech Recognition: Voice-to-text applications.
+                Anomaly Detection: Identifying unusual patterns.
+                Customer Segmentation: Tailored marketing strategies.
+                Predictive Maintenance: Proactive equipment maintenance.
+                Supply Chain Optimization: Enhancing efficiency.
+                Healthcare Analytics: AI in medical imaging and diagnosis.
+                Financial Modeling: Risk assessment and trading.
+                Energy Management: Optimizing energy use.
+                Smart Cities: AI for urban management.
+
+                Our expert team delivers innovative AI/ML solutions to drive growth and efficiency.
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- #services -->
+
+    <!--==========================
+      Techologies Section
+    ============================-->
+    <section id="technologies" class="section-bg">
+      <div class="container">
+        <header class="section-header">
+          <h3>Technologies We Offer</h3>
+          <p>We specialize in a wide range of technologies to meet your business needs.</p>
+        </header>
+
+        <div class="row">
+          <div class="col-md-3 col-sm-6 wow fadeInUp">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-angular" style="color: #dd0031; font-size: 3rem;"></i>
+              <h4 class="mt-3">Angular</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-nodejs" style="color: #68a063; font-size: 3rem;"></i>
+              <h4 class="mt-3">Node.js</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-python" style="color: #306998; font-size: 3rem;"></i>
+              <h4 class="mt-3">Python</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-java" style="color: #007396; font-size: 3rem;"></i>
+              <h4 class="mt-3">Java</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-html5" style="color: #e34c26; font-size: 3rem;"></i>
+              <h4 class="mt-3">HTML5</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-css3" style="color: #1572b6; font-size: 3rem;"></i>
+              <h4 class="mt-3">CSS3</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-javascript" style="color: #f7df1e; font-size: 3rem;"></i>
+              <h4 class="mt-3">JavaScript</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-php" style="color: #777bb4; font-size: 3rem;"></i>
+              <h4 class="mt-3">PHP</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-dot-net" style="color: #512bd4; font-size: 3rem;"></i>
+              <h4 class="mt-3">.NET</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-react" style="color: #61dafb; font-size: 3rem;"></i>
+              <h4 class="mt-3">React</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-vuejs" style="color: #42b883; font-size: 3rem;"></i>
+              <h4 class="mt-3">Vue.js</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.1s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-swift" style="color: #fa7343; font-size: 3rem;"></i>
+              <h4 class="mt-3">Swift</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.2s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-android" style="color: #3ddc84; font-size: 3rem;"></i>
+              <h4 class="mt-3">Android</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.3s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-apple" style="color: #000000; font-size: 3rem;"></i>
+              <h4 class="mt-3">iOS</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.4s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-sass" style="color: #cc6699; font-size: 3rem;"></i>
+              <h4 class="mt-3">Sass</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.5s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="ion-social-bootstrap" style="color: #563d7c; font-size: 3rem;"></i>
+              <h4 class="mt-3">Next.js</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.6s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-figma" style="color: #f24e1e; font-size: 3rem;"></i>
+              <h4 class="mt-3">Figma</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.7s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-adobe" style="color: #ff0000; font-size: 3rem;"></i>
+              <h4 class="mt-3">Adobe XD</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.8s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-sketch" style="color: #f7b500; font-size: 3rem;"></i>
+              <h4 class="mt-3">Sketch</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.9s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-tensorflow" style="color: #ff6f00; font-size: 3rem;"></i>
+              <h4 class="mt-3">TensorFlow</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="2s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-pytorch" style="color: #ee4c2c; font-size: 3rem;"></i>
+              <h4 class="mt-3">PyTorch</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="2.1s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-jupyter" style="color: #f37626; font-size: 3rem;"></i>
+              <h4 class="mt-3">Jupyter</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="2.2s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-selenium" style="color: #43b02a; font-size: 3rem;"></i>
+              <h4 class="mt-3">Selenium</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="2.3s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-cypress" style="color: #17202c; font-size: 3rem;"></i>
+              <h4 class="mt-3">Cypress</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="2.4s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-jest" style="color: #c21325; font-size: 3rem;"></i>
+              <h4 class="mt-3">Jest</h4>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="2.4s">
+            <div class="technology-box text-center p-4 shadow-sm rounded">
+              <i class="fab fa-jest" style="color: #c21325; font-size: 3rem;"></i>
+              <h4 class="mt-3">Many more..</h4>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- #services -->
 
     <!--==========================
       Why Us Section
@@ -427,7 +733,7 @@
             </p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="mailto:support@combyteinfotech.in.net">Contact</a>
+            <a class="cta-btn align-middle" href="mailto:support@combyteinfotech.info">Contact</a>
           </div>
         </div>
       </div>
@@ -498,7 +804,7 @@
     <!--==========================
       Portfolio Section
     ============================-->
-    <section id="portfolio" class="section-bg">
+    <section id="portfolio" class="section-bg d-none">
       <div class="container">
         <header class="section-header">
           <h3 class="section-title">Our Portfolio</h3>
@@ -524,8 +830,10 @@
                 <h4><a href="https://privacypolicymaker.co/" target="_blank">Web 1</a></h4>
                 <p>Web</p>
                 <div>
-                  <a href="img/portfolio/web1.webp" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="https://privacypolicymaker.co/" target="_blank" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/portfolio/web1.webp" class="link-preview" data-lightbox="portfolio" data-title="Web 1"
+                    title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="https://privacypolicymaker.co/" target="_blank" class="link-details" title="More Details"><i
+                      class="ion ion-android-open"></i></a>
                 </div>
               </div>
             </div>
@@ -535,11 +843,14 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/app-1.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
-                <h4><a href="https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo" target="_blank">App 1</a></h4>
+                <h4><a href="https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo"
+                    target="_blank">App 1</a></h4>
                 <p>App</p>
                 <div>
-                  <a href="img/portfolio/app-1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo" target="_blank" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/portfolio/app-1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"
+                    title="Preview"><i class="ion ion-eye"></i></a>
+                  <a href="https://play.google.com/store/apps/details?id=com.lapsateam.youtubetaginfo" target="_blank"
+                    class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                 </div>
               </div>
             </div>
@@ -652,7 +963,7 @@
     <!--==========================
       Clients Section
     ============================-->
-    <section id="testimonials">
+    <section id="testimonials" class="d-none">
       <div class="container">
         <header class="section-header">
           <h3>Testimonials</h3>
@@ -732,8 +1043,8 @@
     <section id="team" class="section-bg">
       <div class="container">
         <div class="section-header">
-          <h3>Team</h3>
-          <p>Meet Our Hadrworking Team Members</p>
+          <h3>Team Heads</h3>
+          <p>Meet Our Experienced Team Heads</p>
         </div>
 
         <div class="row d-flex justify-content-center">
@@ -743,12 +1054,16 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Abhigyan Kr.</h4>
-                  <span>Founder</span>
+                  <span>Co-Founder</span>
                   <div class="social">
-                    <a href="https://x.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/book.eit810" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-facebook"></i></a>
-                    <a href="mailto:Gk.eit810@gmail.com" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-google-plus"></i></a>
-                    <a href="https://www.linkedin.com/in/abhigyan-saha-156b2a219" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://x.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/book.eit810" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-facebook"></i></a>
+                    <a href="mailto:Gk.eit810@gmail.com" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-google-plus"></i></a>
+                    <a href="https://www.linkedin.com/in/abhigyan-saha-156b2a219" target="_blank"
+                      referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -762,10 +1077,14 @@
                   <h4>Er. Sumit Kr.</h4>
                   <span>Co-Founder</span>
                   <div class="social">
-                    <a href="https://x.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-facebook"></i></a>
-                    <a href="mailto:itssumit258@gmail.com" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-google-plus"></i></a>
-                    <a href="https://www.linkedin.com/in/sumitssr/" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://x.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-facebook"></i></a>
+                    <a href="mailto:itssumit258@gmail.com" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-google-plus"></i></a>
+                    <a href="https://www.linkedin.com/in/sumitssr/" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -786,7 +1105,8 @@
                       <a href="" target="_blank" referrerpolicy="no-referrer"
                         ><i class="fa fa-facebook"></i
                       ></a> -->
-                    <a href="mailto:ishantofficial05@gmail.com" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-google-plus"></i></a>
+                    <a href="mailto:ishantofficial05@gmail.com" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-google-plus"></i></a>
                     <!-- <a href="" target="_blank" referrerpolicy="no-referrer"
                         ><i class="fa fa-linkedin"></i
                       ></a> -->
@@ -806,10 +1126,12 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Km. Bhawana</h4>
-                  <span>Graphics Designer</span>
+                  <span>Sr. Graphics Designer</span>
                   <div class="social">
-                    <a href="mailto:riyashahart@gmail.com" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-google-plus"></i></a>
-                    <a href="https://www.linkedin.com/in/km-bhavana-23700a29b" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a>
+                    <a href="mailto:riyashahart@gmail.com" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-google-plus"></i></a>
+                    <a href="https://www.linkedin.com/in/km-bhavana-23700a29b" target="_blank"
+                      referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -822,12 +1144,16 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Er. Ansar Ahmad</h4>
-                  <span>UI/UX Designer</span>
+                  <span>Sr. UI/UX Designer</span>
                   <div class="social">
-                    <a href="https://x.com/ANSARAH61462142" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/ansarahmad.ansarahmad.7564" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-facebook"></i></a>
-                    <a href="mailto:infoansar754@gmail.com" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-google-plus"></i></a>
-                    <a href="https://www.linkedin.com/in/ansar-ahmad-47897b237" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://x.com/ANSARAH61462142" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/ansarahmad.ansarahmad.7564" target="_blank"
+                      referrerpolicy="no-referrer"><i class="fa fa-facebook"></i></a>
+                    <a href="mailto:infoansar754@gmail.com" target="_blank" referrerpolicy="no-referrer"><i
+                        class="fa fa-google-plus"></i></a>
+                    <!-- <a href="https://www.linkedin.com/in/ansar-ahmad-47897b237" target="_blank"
+                      referrerpolicy="no-referrer"><i class="fa fa-linkedin"></i></a> -->
                   </div>
                 </div>
               </div>
@@ -839,7 +1165,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Amit Kr.</h4>
-                  <span>Mobile App Developer</span>
+                  <span>Sr. Mobile App Developer</span>
                   <div class="social">
                     <!-- <a href=""><i class="fa fa-twitter"></i></a>
                     <a href=""><i class="fa fa-facebook"></i></a>
@@ -857,7 +1183,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Ankit Kr.</h4>
-                  <span>Data Specialist</span>
+                  <span>Sr. AI/ML Specialist</span>
                   <!-- <div class="social">
                     <a href="https://x.com/risesumit" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-twitter"></i></a>
                     <a href="https://www.facebook.com/book.eit810" target="_blank" referrerpolicy="no-referrer"><i class="fa fa-facebook"></i></a>
@@ -879,7 +1205,7 @@
     <!--==========================
       Clients Section
     ============================-->
-    <section id="clients" class="wow fadeInUp">
+    <section id="clients" class="wow fadeInUp d-none">
       <div class="container">
         <header class="section-header">
           <h3>Our Clients</h3>
@@ -902,89 +1228,268 @@
     <!--==========================
       Pricing Section
     ============================-->
-    <!-- <section id="pricing" class="wow fadeInUp section-bg">
-        <div class="container">
-          <header class="section-header">
-            <h3>Pricing</h3>
-            <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque
-            </p>
-          </header>
+    <section id="pricing" class="wow fadeInUp section-bg">
+      <div class="container">
+        <header class="section-header">
+          <h3>Pricing</h3>
+          <p>
+            Choose the best plan based on the expertise and experience of our professionals.
+          </p>
+        </header>
 
-          <div class="row flex-items-xs-middle flex-items-xs-center">
-           
-            <div class="col-xs-12 col-lg-4">
-              <div class="card">
-                <div class="card-header">
-                  <h3>
-                    <span class="currency">$</span>19<span class="period"
-                      >/month</span
-                    >
-                  </h3>
-                </div>
-                <div class="card-block">
-                  <h4 class="card-title">Basic Plan</h4>
-                  <ul class="list-group">
-                    <li class="list-group-item">Odio animi voluptates</li>
-                    <li class="list-group-item">Inventore quisquam et</li>
-                    <li class="list-group-item">Et perspiciatis suscipit</li>
-                    <li class="list-group-item">24/7 Support System</li>
-                  </ul>
-                  <a href="#" class="btn">Choose Plan</a>
+        <div class="row flex-items-xs-middle flex-items-xs-center">
+
+          <div class="col-xs-12 col-lg-3 d-flex align-items-stretch">
+            <div class="card w-100">
+              <div class="card-header">
+                <h3>
+                  <span class="currency">$</span>10<span class="period">/hour</span>
+                </h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">Intern Developer</h4>
+                <ul class="list-group">
+                  <li class="list-group-item">0-1 year of experience</li>
+                  <li class="list-group-item">Assisting in projects</li>
+                  <li class="list-group-item">Basic Frontend Development</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="mailto:support@combyteinfotech.info" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-3 d-flex align-items-stretch">
+            <div class="card w-100">
+              <div class="card-header">
+                <h3>
+                  <span class="currency">$</span>25<span class="period">/hour</span>
+                </h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">Junior Developer</h4>
+                <ul class="list-group">
+                  <li class="list-group-item">2+ years of experience</li>
+                  <li class="list-group-item">Basic project handling</li>
+                  <li class="list-group-item">Frontend and Backend Development</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="mailto:support@combyteinfotech.info" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-3 d-flex align-items-stretch">
+            <div class="card w-100">
+              <div class="card-header">
+                <h3>
+                  <span class="currency">$</span>40<span class="period">/hour</span>
+                </h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">Mid-Level Developer</h4>
+                <ul class="list-group">
+                  <li class="list-group-item">5+ years of experience</li>
+                  <li class="list-group-item">Advanced project handling</li>
+                  <li class="list-group-item">Full Stack Development</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="mailto:support@combyteinfotech.info" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-3 d-flex align-items-stretch">
+            <div class="card w-100">
+              <div class="card-header">
+                <h3>
+                  <span class="currency">$</span>60<span class="period">/hour</span>
+                </h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">Senior Developer</h4>
+                <ul class="list-group">
+                  <li class="list-group-item">10+ years of experience</li>
+                  <li class="list-group-item">Expert project handling</li>
+                  <li class="list-group-item">Architectural Design & Development</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="mailto:support@combyteinfotech.info" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- #pricing -->
+
+    <!--==========================
+      Services Price Section
+    ============================-->
+    <section id="support-pricing" class="wow fadeInUp section-bg">
+      <div class="container">
+        <header class="section-header">
+          <h3>Support Pricing</h3>
+          <p>Choose the best support plan for the services you need.</p>
+        </header>
+
+        <div class="row flex-items-xs-middle flex-items-xs-center">
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>50<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">Web Development Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Bug Fixes</li>
+                  <li class="list-group-item">Feature Enhancements</li>
+                  <li class="list-group-item">Performance Optimization</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
                 </div>
               </div>
             </div>
+          </div>
 
-           
-            <div class="col-xs-12 col-lg-4">
-              <div class="card">
-                <div class="card-header">
-                  <h3>
-                    <span class="currency">$</span>29<span class="period"
-                      >/month</span
-                    >
-                  </h3>
-                </div>
-                <div class="card-block">
-                  <h4 class="card-title">Regular Plan</h4>
-                  <ul class="list-group">
-                    <li class="list-group-item">Odio animi voluptates</li>
-                    <li class="list-group-item">Inventore quisquam et</li>
-                    <li class="list-group-item">Et perspiciatis suscipit</li>
-                    <li class="list-group-item">24/7 Support System</li>
-                  </ul>
-                  <a href="#" class="btn">Choose Plan</a>
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>60<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">Mobile Development Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">App Updates</li>
+                  <li class="list-group-item">Bug Fixes</li>
+                  <li class="list-group-item">Performance Optimization</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
                 </div>
               </div>
             </div>
+          </div>
 
-           
-            <div class="col-xs-12 col-lg-4">
-              <div class="card">
-                <div class="card-header">
-                  <h3>
-                    <span class="currency">$</span>39<span class="period"
-                      >/month</span
-                    >
-                  </h3>
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>70<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">Server Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Server Monitoring</li>
+                  <li class="list-group-item">Security Updates</li>
+                  <li class="list-group-item">Performance Optimization</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
                 </div>
-                <div class="card-block">
-                  <h4 class="card-title">Premium Plan</h4>
-                  <ul class="list-group">
-                    <li class="list-group-item">Odio animi voluptates</li>
-                    <li class="list-group-item">Inventore quisquam et</li>
-                    <li class="list-group-item">Et perspiciatis suscipit</li>
-                    <li class="list-group-item">24/7 Support System</li>
-                  </ul>
-                  <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>40<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">IVR Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">IVR Setup</li>
+                  <li class="list-group-item">Call Flow Design</li>
+                  <li class="list-group-item">System Maintenance</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>30<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">SMS Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">SMS Gateway Integration</li>
+                  <li class="list-group-item">Message Templates</li>
+                  <li class="list-group-item">Delivery Reports</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>50<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">Payment Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Payment Gateway Integration</li>
+                  <li class="list-group-item">Transaction Monitoring</li>
+                  <li class="list-group-item">Security Updates</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-lg-4 mb-4 d-flex align-items-stretch">
+            <div class="card shadow-sm border-0 w-100">
+              <div class="card-header text-center bg-light">
+                <h3>
+                  Starting from <span class="currency">$</span>45<span class="period">/month</span>
+                </h3>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title text-center">Call Center Support</h4>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Call Center Setup</li>
+                  <li class="list-group-item">Agent Training</li>
+                  <li class="list-group-item">System Maintenance</li>
+                  <li class="list-group-item">24/7 Support</li>
+                </ul>
+                <div class="text-center mt-3">
+                  <a href="mailto:support@combyteinfotech.info" class="btn btn-info">Choose Plan</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section> -->
-    <!-- #pricing -->
+      </div>
+    </section>
 
     <!--==========================
       Frequently Asked Questions Section
@@ -1125,7 +1630,7 @@
                   </p>
                 </div>
 
-                <div class="footer-newsletter">
+                <div class="footer-newsletter d-none">
                   <h4>Our Newsletter</h4>
                   <p>
                     <!--  -->
@@ -1143,28 +1648,47 @@
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About us</a></li>
                     <li><a href="#">Services</a></li>
-                    <li><a href="#">Terms of service</a></li>
-                    <li><a href="#">Privacy policy</a></li>
+                    <!-- <li><a href="#">Terms of service</a></li> -->
+                    <!-- <li><a href="#">Privacy policy</a></li> -->
                   </ul>
+                </div>
+
+
+                <div class="footer-links">
+                  <h4>Contact Us</h4>
+                  <p>
+                    <strong>Head Branch</strong> <br />
+                    Verma Centre Boring Road Chauraha<br />
+                    Boring Road <br />
+                    Patna, Bihar - 800001<br />
+                    <strong>Phone:</strong> +91 9153567609<br />
+                    <strong>Email:</strong> support@combyteinfotech.info
+                    <br />
+                  </p>
                 </div>
 
                 <div class="footer-links">
                   <h4>Contact Us</h4>
                   <p>
-                    bazar samiti chowk <br />
+                    <strong>Second Branch</strong> <br />
+                    Bazar samiti chowk <br />
                     Burma Colony <br />
                     Tingachiya <br />Katihar, Bihar 854103 <br />
-                    <strong>Phone:</strong> +91 9142451348<br />
-                    <strong>Email:</strong> support@combyteinfotech.in.net
+                    <strong>Phone:</strong> +91 6206504235<br />
+                    <strong>Email:</strong> support@combyteinfotech.info
                     <br />
                   </p>
                 </div>
 
                 <div class="social-links">
-                  <a href="#" target="_blank" referrerpolicy="no-referrer" class="twitter"><i class="fa fa-twitter"></i></a>
-                  <a href="https://www.facebook.com/profile.php?id=61555234924073" target="_blank" referrerpolicy="no-referrer" class="facebook"><i class="fa fa-facebook"></i></a>
-                  <a href="https://www.instagram.com/comebyteinfotech" target="_blank" referrerpolicy="no-referrer" class="instagram"><i class="fa fa-instagram"></i></a>
-                  <a href="https://www.linkedin.com/company/101441225" target="_blank" referrerpolicy="no-referrer" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                  <!-- <a href="#" target="_blank" referrerpolicy="no-referrer" class="twitter"><i
+                      class="fa fa-twitter"></i></a> -->
+                  <a href="https://www.facebook.com/profile.php?id=61555234924073" target="_blank"
+                    referrerpolicy="no-referrer" class="facebook"><i class="fa fa-facebook"></i></a>
+                  <a href="https://www.instagram.com/comebyteinfotech" target="_blank" referrerpolicy="no-referrer"
+                    class="instagram"><i class="fa fa-instagram"></i></a>
+                  <a href="https://www.linkedin.com/company/101441225" target="_blank" referrerpolicy="no-referrer"
+                    class="linkedin"><i class="fa fa-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -1178,19 +1702,23 @@
               </p>
               <form action="server/post/contact_us.php" method="post" role="form" class="contactForm">
                 <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"
+                    data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
+                    data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject"
+                    data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                  <textarea class="form-control" name="message" rows="5" data-rule="required"
+                    data-msg="Please write something for us" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
 
@@ -1260,7 +1788,7 @@
       "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+91 9142451348",
-        "email": "support@combyteinfotech.in.net",
+        "email": "support@combyteinfotech.info",
         "contactType": "Customer service"
       },
       "aggregateRating": {
